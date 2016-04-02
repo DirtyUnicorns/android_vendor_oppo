@@ -320,6 +320,10 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8939-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/oppo/msm8939-common/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/oppo/msm8939-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+    vendor/oppo/msm8939-common/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
+    vendor/oppo/msm8939-common/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
+    vendor/oppo/msm8939-common/proprietary/lib64/libcnefeatureconfig.so:system/lib64/libcnefeatureconfig.so \
+    vendor/oppo/msm8939-common/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so
     vendor/oppo/msm8939-common/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib64/libmdmdetect.so:system/vendor/lib64/libmdmdetect.so \
