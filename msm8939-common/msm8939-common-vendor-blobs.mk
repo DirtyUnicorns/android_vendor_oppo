@@ -314,6 +314,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8939-common/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
+    vendor/oppo/msm8939-common/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/oppo/msm8939-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/oppo/msm8939-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/oppo/msm8939-common/proprietary/bin/rfs_access:system/bin/rfs_access \
