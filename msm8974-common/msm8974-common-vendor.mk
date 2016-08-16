@@ -43,4 +43,7 @@ PRODUCT_PACKAGES += \
     libdsutils \
     libwpa_qmi_eap_proxy
 
+PRODUCT_PACKAGES += \
+    libbtnv
+
 $(call inherit-product, vendor/oppo/msm8974-common/msm8974-common-vendor-blobs.mk)
